@@ -1,0 +1,27 @@
+body {
+    font-family: "Sofia Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.container {
+    margin-left: 37px;
+    margin-right: 52px;
+}
+
+.none {
+    display: none;
+}
+
+.hidden {
+    opacity: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    display: block;
+    margin-left: -10000px;
+    background: transparent;
+    font-size: 0;
+}
